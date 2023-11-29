@@ -61,7 +61,7 @@ Não temos fins lucrativo mas para mantermos o Addon funcionando sua doação é
   </extension>
 </addon>
 
-<addon id="plugin.video.CineDragon_Matrix" name="Cine Dragon" version="1.0.1+matrix.1" provider-name="Juninho"> 
+<addon id="plugin.video.CineDragon_Matrix" name="Cine Dragon matrix omega nexus" version="1.0.1+matrix.1" provider-name="Juninho"> 
 <requires>
     <import addon="xbmc.python" version="3.0.0"/>
     <import addon="script.module.requests"/>
