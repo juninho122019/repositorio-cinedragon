@@ -4,7 +4,7 @@
 	<extension point="xbmc.addon.repository" name="Repositório cine dragon">
 		<info compressed="false">https://raw.githubusercontent.com/juninho122019/repositorio-cinedragon/main/addons.xml</info>
 		<checksum>https://raw.githubusercontent.com/juninho122019/repositorio-cinedragon/main/addons.xml.md5</checksum>
-		<datadir zip="true">https://github.com/juninho122019/repositorio-cinedragon/raw/main/zip</datadir>
+		<datadir zip="true">https://raw.github.com/juninho122019/repositorio-cinedragon/main/zip</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>[COLOR lime]Cine Dragon é do grupo JRSJ companhia[/COLOR]</summary>
@@ -41,7 +41,7 @@
  <extension point="xbmc.addon.repository" name="Repositório Teste">
 	<info compressed="false">https://raw.githubusercontent.com/juninho122019/repositorio-cinedragon/main/addons.xml</info>
 	<checksum>https://raw.githubusercontent.com/juninho122019/repositorio-cinedragon/main/addons.xml.md5</checksum>
-	<datadir zip="true">https://github.com/juninho122019/repositorio-cinedragon/raw/main/zip</datadir>
+	<datadir zip="true">https://raw.github.com/juninho122019/repositorio-cinedragon/main/zip</datadir>
   </extension>
   
   <extension point="xbmc.addon.metadata">
