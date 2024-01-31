@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
 <addon id="repo.cinedragon" name="Repositório Cine dragon" version="1.0.0" provider-name="Juninho">
-	<extension point="xbmc.addon.repository" name="Repositório Teste">
-		<info compressed="false">https://raw.githubusercontent.com/juninho122019/repositorio-cinedragon/main/zip/addons.xml</info>
-		<checksum>https://raw.githubusercontent.com/juninho122019/repositorio-cinedragon/main/zip/addons.xml.md5</checksum>
-		<datadir zip="true">https://raw.githubusercontent.com/juninho122019/repositorio-cinedragon/main/zip/</datadir>
+	<extension point="xbmc.addon.repository" name="Repositório Cine dragon">
+		<info compressed="false">https://raw.githubusercontent.com/juninho122019/repositorio-cinedragon/master/zip/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/juninho122019/repositorio-cinedragon/master/zip/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/juninho122019/repositorio-cinedragon/master/zip</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>Repositorio Cine Dragon</summary>
